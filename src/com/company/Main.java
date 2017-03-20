@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello world!");
         System.out.println("Test of Github!");
+        System.out.println("Test from macbook air");
+
     }
 }
